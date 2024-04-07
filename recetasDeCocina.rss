@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Recetas de cocina</title>
+    <link>http://www.recetasycocina.net</link>
+    <description>Canal con deliciosas recetas de cocina</description>
+    <atom:link href="http://www.recetasycocina.net" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <copyright>Copyright 2024, recetasYcocina.NET</copyright>
+    <webMaster>info@recetasycocina.net</webMaster>
+    <pubDate>Sat, 06 Apr 2024 13:07:37 GMT</pubDate>
+    <lastBuildDate>Sat, 06 Apr 2024 14:49:13 GMT</lastBuildDate>
+    <category>Noticias RSS</category>
+    <generator>Absolute RSS Editor</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Risotto de pollo</title>
+      <link>https://www.recetasgratis.net/receta-de-risotto-de-pollo-57706.html</link>
+      <description>Delicioso y nutritivo plato de arroz cremoso con tiras de pollo</description>
+      <enclosure url="https://cdn0.recetasgratis.net/es/posts/6/0/7/risotto_de_pollo_57706_600.webp" length="21076" type="image/png" />
+      <guid isPermaLink="false">148DA262-DE44-4E13-A20B-CC2DDB7D8C1B</guid>
+      <pubDate>Sat, 06 Apr 2024 13:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Medallones de cerdo salteados con pimiento rojo y cítricos</title>
+      <link>http://www.recetasycocina.net/medallones-de-cerdo-salteados-con-pimiento-rojo-citricos</link>
+      <description>Receta Rápida, práctica ideal para cuando estés corto de tiempo pero ansiando comer algo sabroso y casero</description>
+      <enclosure url="http://www.recetasycocina.net/gestor/upload/20150806071626medallones%20de%20cerdo.jpg" length="13104" type="image/jpeg" />
+      <guid isPermaLink="false">FA389F8C-861F-4CB4-AF5D-FE836E06B211</guid>
+      <pubDate>Sat, 06 Apr 2024 13:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>57 recetas de cocina fáciles y rápidas</title>
+      <link>https://rapidos5.rssing.com/chan-6139927/article80.html</link>
+      <description>Aperitivos y entrantes fáciles y rápidos, platos de carne, platos de pescado, platos de verduras y recetas de postres fáciles y rápidos</description>
+      <enclosure url="https://i.blogs.es/276a7d/1-ter/650_1200.jpg" length="180459" type="image/jpeg" />
+      <guid isPermaLink="false">18AE1926-7F5A-4DCA-B463-D9992BDC5293</guid>
+      <pubDate>Sat, 06 Apr 2024 13:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Espaguetis con salchichas</title>
+      <link>http://www.recetasycocina.net/espaguetis-con-salchichas/</link>
+      <description>Receta rápida y sabrosa que gusta a todo el mundo por su espectacular sabor a bajo presupuesto</description>
+      <enclosure url="http://www.recetasycocina.net/gestor/upload/espaguetis-con-salchichas.jpg" length="20468" type="image/jpeg" />
+      <guid isPermaLink="false">DB7B8645-2405-42C5-A72B-DB538C365B3F</guid>
+      <pubDate>Sat, 06 Apr 2024 13:23:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pollo a la Naranja</title>
+      <link>http://www.recetasycocina.net/pollo-a-la-naranja-oriental</link>
+      <description>Receta típica de comida china, uno de los platos más sabrosos que se pueden cocinar al estilo oriental</description>
+      <enclosure url="http://www.recetasycocina.net/gestor/upload/Pollo%20a%20la%20Naranja.jpg" length="37056" type="image/jpeg" />
+      <guid isPermaLink="false">72C659A6-7A6B-434D-9921-77C55769CD04</guid>
+      <pubDate>Sat, 06 Apr 2024 13:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>ENSALADA DE ALUBIAS</title>
+      <link>http://www.recetasycocina.net/ensalada-de-alubias</link>
+      <description>Receta sencilla de alubias, salud y sabor en el mismo plato</description>
+      <enclosure url="http://www.recetasycocina.net/gestor/upload/ensalada-alubias.jpg" length="22696" type="image/jpeg" />
+      <guid isPermaLink="false">9C7F0D24-45C8-4228-ACED-5CE78CB9EF1B</guid>
+      <pubDate>Sat, 06 Apr 2024 13:20:21 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
