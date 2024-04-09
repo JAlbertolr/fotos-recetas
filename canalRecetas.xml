@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss  version="2.0">
   <channel>
     <title>Recetas de cocina</title>
-    <link>http://www.recetasycocina.net</link>
-    <description>Canal con deliciosas recetas de cocina</description>
-    <atom:link href="http://www.recetasycocina.net" rel="self" type="application/rss+xml" />
+    <link>https://github.com/JAlbertolr/fotos-recetas/blob/main/canalRecetas.xml</link>
+    <description>Canal con deliciosas recetas de cocina</description> 
     <language>es</language>
     <copyright>Copyright 2024, recetasYcocina.NET</copyright>
     <webMaster>info@recetasycocina.net</webMaster>
